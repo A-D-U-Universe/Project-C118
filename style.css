@@ -1,3 +1,7 @@
+body{
+  background-color: rgb(0, 217, 255);
+}
+
 h1
 {
   font-family: 'Special Elite', fantasy;
@@ -37,12 +41,12 @@ p, span
     
   }
 
-  #Score{
+  #score{
     font-size: 35px;
     margin-left: 20px;
   }
 
-  #time{
+  #timer{
     font-size: 35px;
     float: right;
     margin-right: 20px;
